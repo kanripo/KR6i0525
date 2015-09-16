@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說法常住經
+#+DATE: 2015-08-30 20:21:46.732930
+#+PROPERTY: JUAN 0
