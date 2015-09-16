@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:46.514194
+#+DATE: 2015-08-30 20:21:48.013526
 #+TITLE: 佛說法常住經
 #+PROPERTY: CBETA_ID T17n0819
 #+PROPERTY: ID KR6i0525
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 819
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0525_T_000-0833c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0525_T_001-0833c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.819¶
-
- 《佛說法常住經》¶
+No. 819¶
+《佛說法常住經》¶
 ¶
 僧祐錄云安公失譯經人名今附西晉錄¶
 
